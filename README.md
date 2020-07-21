@@ -1,0 +1,1 @@
+# generic-safe-enum-csharp
